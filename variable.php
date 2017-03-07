@@ -31,10 +31,20 @@ echo "$string </br> $int </br> $float </br> $boulean </br>";
 $int2 = null;
 echo $int2;
 $int2 = 45 ;
-echo $int2; 
+echo "$int2 </br>"; 
 ?>
 
 <?php
 $nom2 = "Elodie";
-echo "Salut " .$nom2. " comment vas tu ?";
+echo "Salut " .$nom2. " comment vas tu ? </br>";
 ?>
+
+<?php
+$nom3 = "Céline";
+$prenom2 = "LE BERRE";
+$age2 = 30;
+echo "Bonjour ".$nom3. " " .$prenom2." tu as ".$age2. " ans";
+?>
+
+
+

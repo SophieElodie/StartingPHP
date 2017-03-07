@@ -18,3 +18,11 @@ echo "$kilométre</br>";
 $kilométre = 125 ;
 echo "$kilométre</br>";
 ?>
+
+<?php
+$string = "bonjour";
+$int= 30;
+$float = 2.90887;
+$boulean = true;
+echo "$string </br> $int </br> $float </br> $boulean </br>";
+?>

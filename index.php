@@ -5,5 +5,6 @@
 </head>
 <body>
 <a href="variable.php"> exercice 1 </a>
+<a href="conditions.php">exercice 2 </a>
 </body>
-</html>
+</html> 

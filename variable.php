@@ -33,3 +33,8 @@ echo $int2;
 $int2 = 45 ;
 echo $int2; 
 ?>
+
+<?php
+$nom2 = "Elodie";
+echo "Salut " .$nom2. " comment vas tu ?";
+?>

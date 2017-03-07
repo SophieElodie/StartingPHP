@@ -11,5 +11,19 @@ if ($age < 18)
 if ($age > 18)
 	echo "vous étes majeur";
 ?>
+
+<?php
+$izeasy = true ;
+if($izeasy == true )
+	echo "c'est vrai";
+if ($izeasy == false )
+	echo "c'est difficile";
+?>
+
+<?php
+
+
+
+?>
 </body>
 </html>

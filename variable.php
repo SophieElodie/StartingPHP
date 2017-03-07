@@ -26,3 +26,10 @@ $float = 2.90887;
 $boulean = true;
 echo "$string </br> $int </br> $float </br> $boulean </br>";
 ?>
+
+<?php
+$int2 = null;
+echo $int2;
+$int2 = 45 ;
+echo $int2; 
+?>

@@ -11,5 +11,13 @@ function sophie(){
 }
 ?>
 
+<?php
+function celine ($celine = 'celine'){
+	return $celine;
+}
+echo celine();
+?>
+
+
 </body>
 </html>

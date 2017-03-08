@@ -25,7 +25,9 @@ function coucou ($var1, $var2){
 	echo coucou('bonjour</br>', 'moi</br>');
 ?>
 
-
+<?php
+hdgzyczudhzgdv
+?>
 
 
 </body>

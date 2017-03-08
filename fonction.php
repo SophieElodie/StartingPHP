@@ -26,7 +26,7 @@ function coucou ($var1, $var2){
 ?>
 
 <?php
-hdgzyczudhzgdv
+
 ?>
 
 

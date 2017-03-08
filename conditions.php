@@ -23,10 +23,6 @@ if ($izeasy == false )
 <?php
 $age = 20;
 $genre = "femme";
-//vous etes un homme et vous etes majeur
-//vous etes un homme et vous etes mineur
-//vous etes une femme et vous etes majeur
-//vous etes une femme et vous etes mineur 
 if ($age )
 	else ()
 

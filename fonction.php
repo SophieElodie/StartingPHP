@@ -12,10 +12,10 @@ function sophie(){
 ?>
 
 <?php
-function celine ($celine = 'celine'){
+function celine ($celine){
 	return $celine;
 }
-echo celine();
+echo celine('celine');
 ?>
 
 
